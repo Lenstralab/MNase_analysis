@@ -20,3 +20,6 @@ Further instructions on usage are in the ipynb file comments
 
 Testing
 This script was tested with python 3.8 on Ubuntu 20.04
+
+Demo
+For this analysis the full dataset that the script is tested on/used for is available on https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190737
