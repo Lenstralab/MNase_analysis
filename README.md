@@ -17,3 +17,6 @@ If not done already:
   git clone https://github.com/Lenstralab/MNase_analysis.git
  
 Further instructions on usage are in the ipynb file comments
+
+Testing
+This script was tested with python 3.8 on Ubuntu 20.04
